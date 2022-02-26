@@ -1,8 +1,7 @@
 # Team Profile Generator
 
 ### URL : https://bvsswave.github.io/Team-Profile-Generator/
-### DEPLOY LINK: https://bvsswave.github.io/Team-Profile-Generator/
-
+### VIDEO DEMO: https://youtu.be/jLTwYHVrXoA
 ## Description
 
 This app was created to generate a team's profiles using users input and displays the information on a newly created html page.
