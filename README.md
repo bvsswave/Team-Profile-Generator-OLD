@@ -1,4 +1,4 @@
-# Work Day Planner
+# Team Profile Generator
 
 ### URL : https://bvsswave.github.io/Team-Profile-Generator/
 ### DEPLOY LINK: https://bvsswave.github.io/Team-Profile-Generator/
